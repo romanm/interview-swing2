@@ -1,0 +1,3 @@
+Mainly random testing using the Java3D API. But also a 3D-game of tic-tac-toe for 2 players, where you require 2 rows (in /any/ direction or orientation) in order to win.
+
+Personally, I think this game is unfair. The first player has an inate advantage.
